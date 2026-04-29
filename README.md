@@ -28,6 +28,7 @@ Analizar el comportamiento de clientes de ConnectaTel, empresa de telecomunicaci
 
 > ⚠️ Los datasets deben estar disponibles en `/datasets/` o ajustar las rutas en la celda de carga.
 
+
 ## Herramientas
 - Python
 - pandas, numpy, seaborn, matplotlib
